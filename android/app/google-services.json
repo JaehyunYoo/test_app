@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929624265801",
+    "project_id": "devchat-ba38a",
+    "storage_bucket": "devchat-ba38a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929624265801:android:31f45dd0cec991920e9b98",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDue7x0SzSwqOQUIX0nahJON5FGmyH6pH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
